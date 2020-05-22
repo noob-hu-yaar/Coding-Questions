@@ -7,3 +7,5 @@ NB: Any contributions to this repo is welcome.
 1. https://www.spoj.com/problems/TDPRIMES/
 
 2. http://codeforces.com/contest/26/problem/A
+
+3. https://codeforces.com/contest/776/problem/B
