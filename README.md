@@ -9,3 +9,5 @@ NB: Any contributions to this repo is welcome.
 2. http://codeforces.com/contest/26/problem/A
 
 3. https://codeforces.com/contest/776/problem/B
+
+4. https://codeforces.com/problemset/problem/17/A
