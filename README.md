@@ -15,3 +15,5 @@ NB: Any contributions to this repo is welcome.
 5. https://codeforces.com/contest/1352/problem/B
 
 6. https://codeforces.com/contest/1352/problem/E
+
+7. https://codeforces.com/contest/1352/problem/A
