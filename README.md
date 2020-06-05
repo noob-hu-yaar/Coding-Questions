@@ -11,3 +11,7 @@ NB: Any contributions to this repo is welcome.
 3. https://codeforces.com/contest/776/problem/B
 
 4. https://codeforces.com/problemset/problem/17/A
+
+5. https://codeforces.com/contest/1352/problem/B
+
+6. https://codeforces.com/contest/1352/problem/E
