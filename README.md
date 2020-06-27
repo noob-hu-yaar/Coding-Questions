@@ -23,3 +23,5 @@ NB: Any contributions to this repo is welcome.
 9. https://codeforces.com/contest/1352/problem/C
 
 10. https://codeforces.com/contest/1352/problem/G
+
+11. https://codeforces.com/contest/1363/problem/A
